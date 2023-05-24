@@ -32,7 +32,7 @@ config.logo_servername = false
 
 // Center logo?
 // "true" or "false"
-config.logo_center = false
+config.logo_center = true
 
 // Display current map and gamemode?
 // "true" or "false"
@@ -122,19 +122,7 @@ config.music_show = true
 config.music_playlist = [
 	{
 		name: "Star Wars - Director Orson Krennic Suite (Theme)",
-		file: "Star Wars - Director Orson Krennic Suite (Theme).ogg",
-	},
-	{
-		name: "Devil Survivor 2 - Exploration",
-		youtube: "https://www.youtube.com/watch?v=Zyu-BSdma3g",
-	},
-	{
-		name: "VA-11 Hall-A - Every Day Is Night",
-		youtube: "https://youtu.be/H-AfGh8gmiQ",
-	},
-	{
-		name: "Sonic Mania - Comfort Zone",
-		youtube: "f4CBQ9nnQSY",
+		file: "director.ogg",
 	},
 ]
 
@@ -155,8 +143,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to SleekLoad!",
-	"Customize your loading screen by editing the config file",
+	"Welcome to Smuggler's Den Imperial RP!",
 	"Enjoy!",
 ]
 
