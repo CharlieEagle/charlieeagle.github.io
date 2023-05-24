@@ -73,14 +73,6 @@ config.background_images = [
 	"background4.jpg",
 	"background5.jpg",
 	"background6.jpg",
-	"background7.jpg",
-	"background8.jpg",
-	"background9.jpg",
-	"background10.jpg",
-	"background11.jpg",
-	"background12.jpg",
-	"background13.jpg",
-
 ]
 
 // (Image-background only)
