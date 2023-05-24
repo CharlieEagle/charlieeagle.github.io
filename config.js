@@ -70,6 +70,17 @@ config.background_images = [
 	"background1.jpg",
 	"background2.jpg",
 	"background3.jpg",
+	"background4.jpg",
+	"background5.jpg",
+	"background6.jpg",
+	"background7.jpg",
+	"background8.jpg",
+	"background9.jpg",
+	"background10.jpg",
+	"background11.jpg",
+	"background12.jpg",
+	"background13.jpg",
+
 ]
 
 // (Image-background only)
@@ -110,8 +121,8 @@ config.music_show = true
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "Jason Shaw - Sideways Samba - Audionautix.com",
-		file: "sideways_samba.ogg",
+		name: "Star Wars - Director Orson Krennic Suite (Theme)",
+		file: "Star Wars - Director Orson Krennic Suite (Theme).ogg",
 	},
 	{
 		name: "Devil Survivor 2 - Exploration",
